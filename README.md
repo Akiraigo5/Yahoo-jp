@@ -1,1 +1,2 @@
-# Yahoo-jp
+# Yahoo-jp search
+Yahoo.co.jp
